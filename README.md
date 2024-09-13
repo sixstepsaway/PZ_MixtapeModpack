@@ -1,3 +1,5 @@
+Documentation for [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3130019515)
+
 Too many mods, too little time.
 
 To use these mods you'll need to increase your memory allocation. Go to your local steam folder for the games, find ProjectZomboid64.json and then under "vmArgs", change "-Xmx3072m" to something higher and add "-Xms1800m" or similar above it
